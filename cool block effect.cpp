@@ -8,7 +8,7 @@ using std::cout; using std::cin; using std::string;
 // written by chapel1337
 // made on 10/12/2022
 // somewhat crappy, mostly just experimenting with for loops
-// it still hurts my brain to read it
+// it still hurts my brain when reading it
 // still debating if i want to publicize this
 // was originally supposed to be a wave simulation, so that's why the functions contain the name "wave"
 
